@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<id>1</id>
+		<name>Chari</name>
+		<phone>43859075</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>2</id>
+		<name>Vinay</name>
+		<phone>584085657</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>3</id>
+		<name>Varun</name>
+		<phone>793459534</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>4</id>
+		<name>Shiva</name>
+		<phone>349085589</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>5</id>
+		<name>Abdul</name>
+		<phone>348058945</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>6</id>
+		<name>John Doe</name>
+		<phone>1234567890</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>7</id>
+		<name>Jane Smith</name>
+		<phone>9876543210</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>8</id>
+		<name>Michael Johnson</name>
+		<phone>5555555555</phone>
+		<status>0</status>
+	</user>
+	<user>
+		<id>9</id>
+		<name>Sarah Williams</name>
+		<phone>9998887777</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>10</id>
+		<name>David Brown</name>
+		<phone>1112223333</phone>
+		<status>0</status>
+	</user>
+	<user>
+		<id>11</id>
+		<name>Emily Davis</name>
+		<phone>4445556666</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>12</id>
+		<name>Robert Wilson</name>
+		<phone>7778889999</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>13</id>
+		<name>Alice Johnson</name>
+		<phone>3334445555</phone>
+		<status>0</status>
+	</user>
+	<user>
+		<id>14</id>
+		<name>Christopher Lee</name>
+		<phone>6667778888</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>15</id>
+		<name>Olivia Brown</name>
+		<phone>2223334444</phone>
+		<status>0</status>
+	</user>
+	<user>
+		<id>16</id>
+		<name>William Davis</name>
+		<phone>8889990000</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>17</id>
+		<name>Sophia Wilson</name>
+		<phone>5556667777</phone>
+		<status>0</status>
+	</user>
+	<user>
+		<id>18</id>
+		<name>Ethan Anderson</name>
+		<phone>2221110000</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>19</id>
+		<name>Emma Thompson</name>
+		<phone>9998887777</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>20</id>
+		<name>Alexander White</name>
+		<phone>4443332222</phone>
+		<status>0</status>
+	</user>
+	<user>
+		<id>21</id>
+		<name>Mia Davis</name>
+		<phone>7776665555</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>22</id>
+		<name>James Thomas</name>
+		<phone>2221110000</phone>
+		<status>0</status>
+	</user>
+	<user>
+		<id>23</id>
+		<name>Charlotte Anderson</name>
+		<phone>8887776666</phone>
+		<status>1</status>
+	</user>
+	<user>
+		<id>24</id>
+		<name>Benjamin Johnson</name>
+		<phone>3332221111</phone>
+		<status>0</status>
+	</user>
+	<user>
+		<id>25</id>
+		<name>Abigail Wilson</name>
+		<phone>6665554444</phone>
+		<status>1</status>
+	</user>
+</users>
